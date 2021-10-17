@@ -10,6 +10,7 @@
   "dependencies": {
     "@emotion/native": "^11.0.0",
     "@emotion/react": "^11.5.0",
+    "@expo/ngrok": "^4.1.0",
     "@react-native-community/masked-view": "0.1.10",
     "@react-navigation/native": "^6.0.6",
     "@react-navigation/stack": "^6.0.11",
